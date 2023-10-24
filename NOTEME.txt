@@ -1,0 +1,8 @@
+1. admin
+https://www.youtube.com/watch?v=5miHyP6lExg&t=263s&ab_channel=CodeWithAntonio
+https://ui.shadcn.com/docs/installation/next
+https://clerk.com/docs/quickstarts/nextjs
+
+npx create-next-app@latest ecommerce-admin --typescript --tailwind --eslint
+no yes no
+npx shadcn-ui@latest init
